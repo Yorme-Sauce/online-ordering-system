@@ -1,4 +1,4 @@
-# Nadine's Catering - Online Food Ordering System
+# Nadine's Catering - Online Food Ordering System 🍽️
 
 A modern, responsive web-based online food ordering system for Nadine's Catering service. Built with vanilla HTML, CSS, and JavaScript.
 
