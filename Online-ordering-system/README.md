@@ -13,4 +13,10 @@ A modern, responsive web-based online food ordering system for Nadine's Catering
 - 📱 Fully responsive design (mobile, tablet, desktop)
 - 🎨 Modern and clean UI with smooth animations
 
-## Project Structure
+
+## Getting Started
+
+### Prerequisites
+- No backend server or dependencies required
+
+
