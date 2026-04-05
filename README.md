@@ -13,7 +13,7 @@ _____________________________________________
 8. Place order – 📦🚀
 _____________________________________________
 
-Shopping Cart 🛒
+Shopping Cart Features 🛒
 
 - Add items with one click – 🛒➕
 - Modify quantities on the fly – 🔢🔄
