@@ -13,15 +13,6 @@ _____________________________________________
 8. Place order – 📦🚀
 _____________________________________________
 
-Features in Detail 📝
-
-"Menu System"
-
-- 13 sample menu items across 5 categories
-- Easy to customize and add new items
-- Emoji-based visual representation
-____________________________________________
-
 Shopping Cart 🛒
 
 - Add items with one click – 🛒➕
@@ -46,19 +37,6 @@ _____________________________________________
 - Optimized for all screen sizes – 🖥️📱📐
 - Touch-friendly buttons – 👆🔘
 - Horizontal scrolling support on mobile – 📜➡️📲
-______________________________________________
-
-🚀 Future Enhancements
-
-- Backend integration for real order processing – 🔗⚙️
-- Payment gateway integration – 💳🔒
-- Email order confirmations – 📧✅
-- Order tracking system – 📦📍
-- User accounts and order history – 👤📜
-- Admin dashboard – 🛠️📊
-- Real menu images – 🍔📸
-- Ratings and reviews – ⭐🗣️
-- Dietary restrictions/allergen filtering – 🥗🚫🌾
 ______________________________________________
 
 🛠️ Technologies Used
