@@ -4,7 +4,7 @@ ________________________________________________________________________________
 "Frontend-only implementation" 
 
 Need backend integration for production, including:
--🛒📦 Order processing
--💳💰 Payments
--👥📂 Customer management
+- Order processing 🛒📦
+- Payments 💳💰
+- Customer management 👥📂
 ______________________________________________________________________________________________
