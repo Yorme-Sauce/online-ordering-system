@@ -64,8 +64,7 @@ License.
 
 "This project is open source and available under the MIT License."
 ______________________________________________
-"Contact"
-Nadine's Catering
-_____________________________________________
-Email: @nadinescartering.com
-Phone: 63+ 9065125998
+"Contacts"
+- Nadine's Catering
+- Email: @nadinescartering.com
+- Phone: 63+ 9065125998
