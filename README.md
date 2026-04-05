@@ -49,9 +49,4 @@ ______________________________________________
 
 ______________________________________________
 
-This project is open source and available under the MIT License. – 🌍📑⚖️
 
-- Contacts 📇
-- Nadine's Catering – 🍴👩‍🍳
-- Email: @nadinescartering.com – 📧💌
-- Phone: +63 9065125998 – 📞📱
